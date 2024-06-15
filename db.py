@@ -22,3 +22,5 @@ plt.xlabel('Produtos')
 plt.ylabel('Quantidade')
 plt.title('Relação de quantidade de produtos')
 plt.show() #Mostra o gráfico
+
+print(nomes)
